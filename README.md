@@ -27,4 +27,6 @@
 <a href="https://www.linkedin.com/in/andre-luiz-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:andreluizoliveira.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+ <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/andreoliveiraluiz/count.svg" /></p>
+  
 ![snake gif](https://github.com/andreoliveiraluiz/andreoliveiraluiz/blob/output/github-contribution-grid-snake.svg)
